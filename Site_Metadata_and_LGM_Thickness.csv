@@ -1,0 +1,168 @@
+Site,Sub-region,ICE-D Short  Name,Latitude,Longitude,LGM_Ice_Thickness (meters above present day ice thickness),Publication
+1,"Condon Hills, Lower Unnamed Nuntak",CNDL,-67.93755,48.5797,500,https://doi.org/10.1002/2013JF002870
+2,Casey Bay; Demidov Island ,DDVI,-67.474,48.3343,500,https://doi.org/10.1002/2013JF002877
+3,"Lutzlow-Holm Bay, Skarvsnes",SKARV,-69.484,39.67368,360,https://doi.org/10.1016/j.quascirev.2013.07.024; https://doi.org/10.1016/j.quascirev.2013.07.027
+4,"Lutzlow-Holm Bay, Skarvsnes",SKARV,-69.485,39.6975,360,https://doi.org/10.1016/j.quascirev.2013.07.024; https://doi.org/10.1016/j.quascirev.2013.07.027
+5,"Lutzlow-Holm Bay, Telen",TELEN,-69.65245,39.70925,360,https://doi.org/10.1016/j.quascirev.2013.07.024; https://doi.org/10.1016/j.quascirev.2013.07.057
+6,"Lutzlow-Holm Bay, Telen",TELEN,-69.6509,39.686,360,https://doi.org/10.1016/j.quascirev.2013.07.024; https://doi.org/10.1016/j.quascirev.2013.07.057
+7,"Lutzlow-Holm Bay, Skallen",SKALL,-69.654625,39.4503,400,https://doi.org/10.1016/j.quascirev.2020.106540
+8,"Lutzlow-Holm Bay, Skallen",SKALL,-69.67805,39.47915,400,https://doi.org/10.1016/j.quascirev.2020.106541
+9,"Lutzlow-Holm Bay, Skallen",SKALL,-69.6728,39.4826,400,https://doi.org/10.1016/j.quascirev.2020.106542
+10,"Lutzlow-Holm Bay, Skallen",SKALL,-69.68,39.47,400,https://doi.org/10.1016/j.quascirev.2020.106554
+11,"Lutzlow-Holm Bay, Skarvsnes",SKARV,-69.4298125,39.6091625,400,https://doi.org/10.1002/jqs.1465; https://egusphere.copernicus.org/preprints/2024/egusphere-2024-275/egusphere-2024-275.pdf
+12,"Jutulstraumen, Viddalskollen,  Midbresrabben","VIDDALS, MIDBRES",-72.40242333,-2.339023333,700,https://doi.org/10.1016/j.quascirev.2013.07.029
+13,"Larsemann Hills, Stornes",STORNES,-69.42383333,76.08344815,598,https://doi.org/10.1016/j.yqres.2009.04.002;  https://doi.org/10.1017/S0954102001000608; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf
+14,"Rauer Group, Mather Peninsula, Filla Island, Mosquito Island, Hop Island","MATHER, FILLAI",-68.84916,77.924325,600,https://doi.org/10.1016/j.yqres.2009.04.011
+15,"Rauer Group,Mosquito Island, Hop Island","HOPI, MOSQUITO",-68.8362825,77.7912975,600,https://doi.org/10.1016/j.yqres.2009.04.012
+16,"Vestfold Hills, Vestfold Hills",VEST,-68.65049,78.2841485,600,https://doi.org/10.1016/j.yqres.2009.04.030
+17,"Vestfold Hills, Vestfold Hills",VEST,-68.53284,78.5078,600,https://doi.org/10.1016/j.yqres.2009.04.031
+18,"Vestfold Hills, Vestfold Hills",VEST,-68.536,78.389,600,https://doi.org/10.1016/j.yqres.2009.04.032
+19,"Vestfold Hills, Vestfold Hills",VEST,-68.48652778,78.52777778,600,https://doi.org/10.1016/j.yqres.2009.04.033
+20,"Vestfold Hills, Vestfold Hills",VEST,-68.53527778,78.32453704,600,https://doi.org/10.1016/j.yqres.2009.04.034
+21,"Gjelsvikfjella, Grjotfjellet",GRJOT,-72.04228205,2.496523077,250,https://doi.org/10.1016/j.quascirev.2013.07.060
+22,"Gjelsvikfjella, Rabben",RABBEN,-71.85736944,2.8234,250,https://doi.org/10.1016/j.quascirev.2013.07.062
+23,"Framnes Mountains, Mt. Henderson",HEND,-67.69164,63.030455,400,https://doi.org/10.1016/j.quascirev.2013.07.083
+24,"Framnes Mountains, North Masson Range",NMAS,-67.783904,62.80639,400,https://doi.org/10.1016/j.quascirev.2013.07.087
+25,"Framnes Mountains, Brown Range",BROWN,-68.10367,62.37757,160,https://doi.org/10.1016/j.quascirev.2013.07.087
+26,"Framnes Mountains, Central Masson Range, Dunlop Peak","CMAS, DUN",-67.899645,62.66949,400,https://doi.org/10.1016/j.quascirev.2013.07.087
+27,"Terra Nova Bay, Jang Bogo Hills",JANBOGO,-74.6175525,164.2281725,90,https://doi.org/10.1016/j.quascirev.2019.105897
+28,"David Glacier, Hughes Bluff",HUGBLUFF,-75.39402375,162.214225,230,https://doi.org/10.5194/tc-15-5447-2022
+29,"David Glacier, Mount Kring",KRING,-74.98963667,157.9167367,230,https://doi.org/10.5194/tc-15-5447-2037
+30,"David Glacier, Mount Kring",KRING,-74.991042,157.919722,230,https://doi.org/10.5194/tc-15-5447-2046
+31,"David Glacier, Mount Kring",KRING,-74.989635,157.9158,230,https://doi.org/10.5194/tc-15-5447-2046
+32,"Mawson Escarpment, Dalton Corner",DALTON,-73.6847,68.4728,700,https://doi.org/10.1016/j.yqres.2009.04.032
+33,"Byrd Glacier, Lonewolf Nunataks, GPS Nunatak, LW2 Nunatak, Tiger Nunatak","LWGPS, LONEWOLF2, LWTIGER",-81.3490252,152.7312842,400,https://doi.org/10.1002/esp.5701
+34,"Byrd Glacier, Lonewolf Nuntataks, LW1 Nunatak",LONEWOLF1,-81.28336845,153.2275674,400,https://doi.org/10.1002/esp.5701
+35,"Byrd Glacier, Mt. Tadpole",TAD,-80.50182749,158.7293198,400,https://doi.org/10.1002/esp.5701
+36,"Skelton Glacier, Escalade Peak, Halfway Nunatak","ESC, HALFWAY",-78.4243,161.0501,120,https://doi.org/10.1016/j.quascirev.2020.106305
+37,"(McMurdo Ice Shelf, Mt. Discovery",DISCO,-78.30452571,165.56273,520,https://doi.org/10.1016/j.quascirev.2016.12.007
+38,"McMurdo Ice Shelf, Black Island",BLACK I,-78.151,166.288,520,https://doi.org/10.1016/j.quascirev.2016.12.007
+39,"Prince Charles Mountains, Mt. Ruker",RUKER,-73.599075,64.3387,160,https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2674/
+40,"(Prince Charles Mountains, Mt. Stinear",STINER,-73.0406,66.46165,800,https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2674/
+41,"Prince Charles Mountains, Loewe Massif",LOEWE,-70.5356,67.8,300,https://doi.org/10.1016/j.quascirev.2020.106595
+42,"Terra Nova Bay, Inexpressible Island",INXS,-74.87409188,163.65919,300,https://doi.org/10.1016/j.quascirev.2020.106595
+43,"Tinker Glacier, Harrow Peaks",HARROW,-74.04735,164.79093,400,https://hess.ess.washington.edu/repository/tucker/Moening-Swanson_Tucker_Glacier_Thesis_May2014.pdf
+44,"(Terra Nova Bay, Mt. Browning, Mario Zucchelli Station","BROWING, MZS",-74.62267,164.10967,400,https://hess.ess.washington.edu/repository/tucker/Moening-Swanson_Tucker_Glacier_Thesis_May2014.pdf
+45,"Aviator Glacier, Ridge F",AVGRDF,-73.96166286,165.0766686,400,https://hess.ess.washington.edu/repository/tucker/Moening-Swanson_Tucker_Glacier_Thesis_May2014.pdf
+46,"(Darwin and Hatherton Glaciers, Lake Wellman",LWEL,-79.91579429,156.8361471,500,https://doi.org/10.5194/tc-15-3329-2021
+47,"(Darwin and Hatherton Glaciers, Lake Wellman",LWEL,-79.89832954,156.8050042,500,https://doi.org/10.5194/tc-15-3329-2021
+48,"Mawson Glacier, Bruce Point",BRUCE,-76.14526524,162.4003352,260,https://www.nature.com/articles/ncomms9910; https://doi.org/10.1016/j.quascirev.2020.106630
+49,"Mawson Glacier, Mt. Murray",MURRAY,-76.18618345,161.9942567,260,https://www.nature.com/articles/ncomms9910; https://doi.org/10.1016/j.quascirev.2020.106630
+50,"Mawson Glacier, Mt. Murray",MURRAY,-76.19206394,161.9479226,260,https://www.nature.com/articles/ncomms9910; https://doi.org/10.1016/j.quascirev.2020.106630
+51,"Dry Valleys, Mt. DeWitt",DW,-77.19456222,159.8416433,340,https://www.nature.com/articles/ncomms9910
+52,"Mackay Glacier, Low Ridge",LOWR,-76.9893875,162.2774125,340,https://www.nature.com/articles/ncomms9910
+53,"Mackay Glacier, Gondola Ridge",GONDOLA,-77.00415556,161.7613,340,https://www.nature.com/articles/ncomms9910
+54,"Mackay Glacier, Mt. Suess",SUESS,-77.03570833,161.640075,340,https://www.nature.com/articles/ncomms9910
+55,"Mackay Glacier, Gondola Ridge",GONDOLA,-76.99818,161.78932,340,https://www.nature.com/articles/ncomms9910
+56,"Beardmore Glacier, Mt. Hope",HOPE,-83.5085,171.4236833,756,
+57,"Beardmore Glacier, Mt. Hope",HOPE,-83.51696111,171.3948667,756,
+58,"Beardmore Glacier, Mt. Kyffin",KYFFIN,-83.7841,171.7782,501,
+59,"Shackleton Glacier, Gemini Nunataks",GEMINI,-84.707625,-176.6065,310,https://doi.org/10.5194/tc-13-2935-2019
+60,"Scott Glacier, Karo Hills",KARO,-85.49342667,-154.5493611,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+61,"Scott Glacier, Mt. Rigby",RIGBY,-85.53085467,-154.534622,893,doi:10.1002/2017GL074216.
+62,"Reedy Glacier, Quartz Hills",QZH,-85.90017067,-132.607072,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+63,"Reedy Glacier, Bedrock Candy Mountain, Joni G. Nunatak, Striated Knoll","BRK, JGN, SKL",-85.40454667,-135.9425783,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+64,"Reedy Glacier, Cohen Nunatak",CHN,-85.402436,-136.210922,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+65,"Reedy Glacier, Quartz Hills",QZH,-85.910105,-132.344545,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+66,"Reedy Glacier, Pip's Peak, Racine Nunatak, Langford Peak","UNN, RCN, LNG",-85.450853,-135.958435,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+67,"Reedy Glacier, Polygon Spur, Mim's Spur","PGN, MIM",-86.03592,-125.8486733,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+68,"Tucker Glacier, Shark Fin",SKF,-72.6895625,169.5474593,350,"https://mines.primo.exlibrisgroup.com/discovery/openurl?institution=01COLSCHL_INST&vid=01COLSCHL_INST:MINES&volume=319&date=2019&aulast=Balco&issue=4&issn=0002-9599&spage=255&id=doi:10.2475%2F04.2019.01&auinit=G&title=The%20American%20journal%20of%20science,%20%26%20c.&atitle=Glacial%20geology%20and%20cosmogenic-nuclide%20exposure%20ages%20from%20the%20Tucker%20Glacier-Whitehall%20Glacier%20confluence,%20northern%20Victoria%20Land,%20Antarctica&sid=google"
+69,"Tucker Glacier, Skua Basin",SKB,-72.632475,169.37094,379,"https://mines.primo.exlibrisgroup.com/discovery/openurl?institution=01COLSCHL_INST&vid=01COLSCHL_INST:MINES&volume=319&date=2019&aulast=Balco&issue=4&issn=0002-9599&spage=255&id=doi:10.2475%2F04.2019.01&auinit=G&title=The%20American%20journal%20of%20science,%20%26%20c.&atitle=Glacial%20geology%20and%20cosmogenic-nuclide%20exposure%20ages%20from%20the%20Tucker%20Glacier-Whitehall%20Glacier%20confluence,%20northern%20Victoria%20Land,%20Antarctica&sid=google"
+70,"Tucker Glacier, Crater Cirque",CCR,-72.6035915,169.3515786,260,"https://mines.primo.exlibrisgroup.com/discovery/openurl?institution=01COLSCHL_INST&vid=01COLSCHL_INST:MINES&volume=319&date=2019&aulast=Balco&issue=4&issn=0002-9599&spage=255&id=doi:10.2475%2F04.2019.01&auinit=G&title=The%20American%20journal%20of%20science,%20%26%20c.&atitle=Glacial%20geology%20and%20cosmogenic-nuclide%20exposure%20ages%20from%20the%20Tucker%20Glacier-Whitehall%20Glacier%20confluence,%20northern%20Victoria%20Land,%20Antarctica&sid=google"
+71,"Cape Adare, Cape Adare",ADARE,-71.300233,170.233333,260,"https://mines.primo.exlibrisgroup.com/discovery/openurl?institution=01COLSCHL_INST&vid=01COLSCHL_INST:MINES&volume=319&date=2019&aulast=Balco&issue=4&issn=0002-9599&spage=255&id=doi:10.2475%2F04.2019.01&auinit=G&title=The%20American%20journal%20of%20science,%20%26%20c.&atitle=Glacial%20geology%20and%20cosmogenic-nuclide%20exposure%20ages%20from%20the%20Tucker%20Glacier-Whitehall%20Glacier%20confluence,%20northern%20Victoria%20Land,%20Antarctica&sid=google"
+72,"David Glacier, Unnnamed wall",UNNWALL,-75.248316,162.0196,152.3,
+75,"Darwin and Hatherton Glaciers, Diamond Hill",DIAMOND,-79.89819286,159.1174586,500,https://doi.org/10.5194/tc-15-3329-2021
+76,"Darwin and Hatherton Glaciers, Brown Hills",BROWNH,-79.837,159.20126,500,https://doi.org/10.5194/tc-15-3329-2021
+77,"Darwin and Hatherton Glaciers, Diamond Hill",DIAMOND,-79.85197,159.10872,500,https://doi.org/10.5194/tc-15-3329-2021
+78,"Darwin and Hatherton Glaciers, Bibra Valley, Britannia 1 deposits","DUBVB1, BIBVB1",-79.98469714,155.5014271,800,https://doi.org/10.5194/tc-15-3329-2057
+79,"Darwin and Hatherton Glaciers, Danum Platform, Britannia 1 deposits,  Updog Mountain","DANPB1, UPDOG",-79.97465917,155.5251767,800,https://doi.org/10.5194/tc-15-3329-2057
+80,"Darwin and Hatherton Glaciers, Magnis Valley",MAGNIS,-80.076999,156.164209,800,https://doi.org/10.5194/tc-15-3329-2057
+81,"Darwin and Hatherton Glaciers, Magnis Valley SE Ridge",MAGNISSE,-80.05873667,156.2888033,800,https://doi.org/10.5194/tc-15-3329-2057
+82,"Darwin and Hatherton Glaciers, Magnis Valley SE Ridge",MAGNISSE,-80.057505,156.279175,800,https://doi.org/10.5194/tc-15-3329-2057
+83,"Darwin and Hatherton Glaciers, Magnis Valley NW Ridge",MAGNISNW,-80.04545333,156.12056,800,https://doi.org/10.5194/tc-15-3329-2057
+84,"King George Island, Fildes Peninsula",FILDESP,-62.15277407,-58.93880648,50,https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://onlinelibrary.wiley.com/doi/full/10.1111/j.1502-3885.2008.00069.x?casa_token=nUDNVijCBTQAAAAA%3AWX3-b0U68_fB7v4NlpdRHzFIO87m1f93MM_4uXLc_Od8oTGxlH353Za8UFpwHDSn0u48Hm7Jh69eZQw
+85,"northeastern Antarctic Peninsula, Cape Framnes, Jason Peninsula",FRAMNES,-66.01551857,-60.56418,490,https://doi.org/10.1016/j.quascirev.2014.06.023
+86,"northeastern Antarctic Peninsula, Cape Marsh, Robertson Island",CMARSH,-65.24617667,-59.4448,490,https://doi.org/10.1016/j.quascirev.2014.06.023
+87,"James Ross Island (Clearwater Mesa, Cape Lamb, Vega Island, Terrapin Hill)",N/A,-63.984695,-57.6403125,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+88,"James Ross Island (Sykes Cliffs, Clearwater Mesa, Cape Lamb, Vega Island, Terrapin Hill)",N/A,-63.9846375,-57.716485,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+89,"James Ross Island, San Jose Pass,St. Martha Cove ","SJPASS, STMARTHA",-63.922025,-57.85252,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+90,"James Ross Island,Lachman Mesa, Johnson Mesa","LACMESA, JOHM",-63.83215,-57.89082,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+91,"James Ross Island, Cape Lachman","LACMESA, JOHM",-63.78984,-57.7957975,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+92,"Seymour Island, Seymour Island",SEY,-64.24353333,-56.63323333,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+93,"James Ross Island, Terrapin Hill",TERR,-63.93416667,-57.52503333,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+94,Long Island,N/A,-63.7806,-58.239605,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+95,"northeastern Antarctic Peninsula, Long Island",LONGI,-63.7628,-58.185006,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+96,"Seymour Island, Seymour Island",SEY,-64.24947,-56.65363667,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+97,"James Ross Island, Lagrelius Peninsula",LAGRELIUS,-63.91939667,-58.30266333,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+98,"James Ross Island, San Carlos Hill, Sharp Valley","SANCHILL, SHARPV",-63.84758,-58.04551667,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+99,"James Ross Island, Kaa Bluff",KAA,-63.8596,-58.10838,780,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+100,"Livingston Island, Napier Peak",NAPIER,-62.6716,-60.3251,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+101,"(Livingston Island, Sofia Peak",SOFIA,-62.6703,-60.3798,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+102,"northwestern Antarctic Peninsula, Berthelot Island",BERTI,-65.3303,-64.1547,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+103,"northwestern Antarctic Peninsula, Primavera Station",PRIMA,-64.156475,-60.95315,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+104,"northwestern Antarctic Peninsula, Uruguay Island",URUI,-65.2326,-64.2231,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+105,"Marguerite Bay, Pourquoi-Pas Island",PQPI,-67.59044,-67.25624,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2; https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf; https://doi.org/10.1016/j.quascirev.2011.10.011
+106,"Alexander Island, Mount Holt,  Overton Peak","HOLT, OVPK",-69.58583333,-71.89526667,434,https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf
+107,"southern Antarctic Peninsula, Batterbee Mountains",BAT,-71.55666667,-67.44791667,1527,https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf
+108,"southern Antarctic Peninsula, Behrendt Mountains",BEH,-75.31462963,-72.26259259,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;2
+109,"Alexander Island, Ablation Valley,  Moutonnee Valley","ABL, MV",-70.87013889,-68.41540556,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;3
+110,"Alexander Island, Two Step Cliffs",TSC,-71.83194444,-68.24722222,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;4
+111,"northeastern Antarctic Peninsula, Sjogren-Boydell fjord, unnamed nunatak C",SJOC,-64.224496,-59.018726,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;5
+112,"northeastern Antarctic Peninsula, Sjogren-Boydell fjord, Downham Peak",SJOA,-64.27219,-58.87606,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;6
+113,"northeastern Antarctic Peninsula, Drygalski Glacier, Sentinel Nunatak",DRYD,-64.77295,-60.79028,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;7
+114,"northeastern Antarctic Peninsula, Drygalski Glacier, unnamed nunatak E",DRYE,-64.700728,-60.613598,500,https://doi.org/10.1657/1523-0430(2003)035[0175:GACHOT]2.0.CO;8
+115,"Neptune Range, Mt. Harper",HARPER,-84.05935,-57.24463,500,https://doi.org/10.5194/tc-13-2935-2019
+116,"Neptune Range, Mt. Bragg",BRAGG,-84.09955857,-56.78210286,500,https://doi.org/10.5194/tc-13-2935-2019
+117,"Neptune Range, Mt. Bragg",BRAGG,-84.09835,-56.78345,500,https://doi.org/10.5194/tc-13-2935-2019
+118,"Neptune Range, Mt. Harper",HARPER,-84.066225,-57.11901,500,https://doi.org/10.5194/tc-13-2935-2019
+119,"Neptune Range, Mt. Harper",HARPER,-84.059385,-57.194275,500,https://doi.org/10.5194/tc-13-2935-2019
+120,"Thomas Hills, Bentley Peak",BTP,-84.29493,-64.26187,500,https://doi.org/10.5194/tc-13-2935-2019
+121,"Williams Hills, Camp Rocks",CRK,-83.636175,-59.014835,500,https://doi.org/10.5194/tc-13-2935-2019
+122,"Williams Hills, Last Nunatak",LNK,-83.746,-58.99211,500,https://doi.org/10.5194/tc-13-2935-2019
+123,"Williams Hills, Pillow Knob, Storey Peak","PIL, STORP",-83.66119444,-58.64581,500,https://doi.org/10.5194/tc-13-2935-2019
+124,"Lassiter Coast, Bowman Peninsula, Mt. Light, Mt. Lampert","BOWPEN, LIGHT, LAMPERT",-74.55680883,-62.51908333,419,
+125,"Ellsworth Mountains, Flowers Hills 3, Flowers Hills 2, Flowers Hills 1","FLOW3, FLOW2, FLOW1",-78.47071667,-84.08554,1140,https://doi.org/10.5194/tc-13-2935-2023
+126,"Ellsworth Mountains, Meyer Hills",MEYERHILLS,-79.7904,-81.12181,1140,https://doi.org/10.5194/tc-13-2935-2023
+127,"Ellsworth Mountains, Independence Hills",IH,-80.34835702,-81.72478995,400,https://doi.org/10.5194/tc-13-2935-2032
+128,"Ellsworth Mountains, Marble Hills",MH,-80.26328736,-82.11466391,480,https://doi.org/10.5194/tc-13-2935-2035
+129,"Ellsworth Mountains, Marble Hills",MH,-80.258655,-82.13678,535,https://doi.org/10.5194/tc-13-2935-2049
+130,"Ellsworth Mountains, Marble Hills",MH,-80.2574,-82.12945,480,https://doi.org/10.5194/tc-13-2935-2057
+131,"Ellsworth Mountains, Marble Hills",MH,-80.26937233,-82.173589,500,https://doi.org/10.5194/tc-13-2935-2057
+132,"Ellsworth Mountains, Patriot Hills",PH,-80.32935,-81.32605,475,https://doi.org/10.5194/tc-13-2935-2071
+133,"Ellsworth Mountains, Patriot Hills",PH,-80.3219,-81.4343,240,https://doi.org/10.5194/tc-13-2935-2075
+134,"Ellsworth Mountains, Patriot Hills",PH,-80.32408789,-81.5067098,240,https://doi.org/10.5194/tc-13-2935-2075
+135,"Ellsworth Mountains, Patriot Hills",PH,-80.32422133,-81.52131314,322,https://doi.org/10.5194/tc-13-2935-2075
+136,"Ellsworth Mountains, Patriot Hills, Schmidt Hills, Mt. Coulter main massif, Schmidt Hills, No Name Spur","PH, COU, NNS",-80.324159,-81.394227,500,https://doi.org/10.5194/tc-13-2935-2094
+137,"Schmidt Hills, Mt. Coulter south peak",CSP,-83.29422,-58.06827333,385,https://doi.org/10.5194/tc-13-2935-2038
+138,"Ohio Range, Bennett Nunatak,. Darling Ridge, Discovery Ridge","OBN, ODR, ODY",-84.78841667,-116.38995,190,https://doi.org/10.5194/tc-13-3061-2019
+139,"Shackleton Range, Mt. Provender",PROV,-80.38455,-30.06789,190,https://doi.org/10.5194/tc-13-3061-2019
+140,"Shackleton Range, Mt. Sheffield",SHEFF,-80.11352,-25.78313,190,https://doi.org/10.5194/tc-13-3061-2019
+141,"Shackleton Range, Mt. Skidmore",SKID,-80.27383,-28.7768,190,https://doi.org/10.5194/tc-13-3061-2019
+142,"Williams Hills, Camp Rocks, Itsy Bitsy Rock, Mt. Hobbs,  Last Nunatak, Mt. Warnke massif, Clapperton Ridge","CRK, IBR, HBS, LNK, WARNKE, CRN",-83.69966364,-58.96529455,500,https://doi.org/10.5194/tc-13-2935-2019
+143,"Thomas Hills, Nance Ridge",NAN,-84.38570867,-65.61770833,400,https://doi.org/10.5194/tc-13-2935-2019
+144,"Thomas Hills, South Mainland",SML,-84.4326966,-66.1288158,400,https://doi.org/10.5194/tc-13-2935-2019
+145,"Pirrit Hills, Mount Axtell, Mt. Tidd","AXTELL, TIDD",-81.13952,-85.355735,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+146,"Pirrit Hills, Mount Axtell",AXTELL,-81.14401,-85.32614,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+147,"Pirrit Hills, Mount Turcotte, Whitmore Mountains, Whitmore Mountains","TURCOTTE, WITTS",-81.10448,-85.52022,1200,https://intranet.ess.uw.edu/content/people/student_publications_files/todd--claire-e/3289774.pdf
+148,"Clark Mountains, Mt. Van Valkenburg",VVB,-77.312075,-142.11098,1282,https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf
+149,"Sarnoff Mountains, Mt. Rea - The Billboard massif",REA,-77.06856,-145.57896,500,https://doi.org/10.1130/G21165.1
+150,"Sarnoff Mountains, Mt. Blades",BLD,-77.16223333,-145.3202,500,https://doi.org/10.1130/G21165.1
+151,"Sarnoff Mountains, Mt. Rea - The Billboard massif",REA,-77.08276,-145.54864,500,https://doi.org/10.1130/G21165.1
+152,"Allegheny Mountains, Mt. Spencer, Mt. Darling","SPC, DAR",-77.26504,-143.3305,500,https://doi.org/10.1130/G21165.1
+153,"Fosdick Mountains, Migmatite Ridge",MGM,-76.53926667,-144.49637,500,https://doi.org/10.1130/G21165.1
+154,"Swanson Mountains, Mt. Passel",PAS,-76.87283333,-145.02063,500,https://doi.org/10.1130/G21165.1
+155,"Sarnoff Mountains, Fleming Peaks",FLM,-77.2547,-144.4395,500,https://doi.org/10.1130/G21165.1
+156,"Mt. Murphy massif, Dorrel Rock, Icefall Nunatak, Notebook Cliffs, Kay Peak, Turtle Rock","DORREL, ICEFALL, NOTE, KAYPK, TR",-75.38019793,-111.2009,560 or 824,https://doi.org/10.1016/j.epsl.2020.116501;https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1205385109&file=Appendix.pdf
+157,"Bear Peninsula, Hunt Bluff",HB,-74.57908,-111.8871,420,https://doi.org/10.1016/j.quascirev.2017.11.003
+158,"Kohler Range, Barter Bluff",BB,-75.159867,-113.97837,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+159,"Kohler Range, Mt. Isherwood",ISH,-74.983217,-113.693833,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+160,"Hudson Mountains, Mt. Manthe",MM,-74.77670834,-99.36335834,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+161,"Pine Island Bay, Lindsey Islands,  Edwards Islands","LINDSI, EDWARDSIS",-73.7025774,-103.0035627,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+162,"Pine Island Bay, Jaynes Islands",JANESIS,-73.969317,-104.13485,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+163,"Hudson Mountains, Maish Nunatak",MAISH,-74.592516,-99.449306,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+164,"Hudson Mountains, Mt. Moses",MOSES,-74.552285,-99.19523167,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+165,"Hudson Mountains, Evans Knoll",EVANSKNOLL,-74.84902,-100.41378,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+166,"Hudson Mountains, Winkie Nunatak",WINKIW,-74.861108,-99.780244,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+167,"Hudson Mountains, Meyers Nunatak",MEYERSN,-74.90527,-98.75059,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+168,"Hudson Mountains, Shepherd Dome",SHEPERD,-74.88180571,-99.53573714,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
+169,"Hudson Mountains, Inman Nunatak",INMANN,-74.824905,-98.875315,690,https://doi.org/10.1130/G51326.1;  https://doi.org/10.1029/2020JF005877
