@@ -2,7 +2,7 @@
 
 ## 📂 Files
 
-### `SiteMetadata.csv`
+### `Site_Metadata_and_LGM_Thickness.csv`
 Contains site-level metadata:
 - `Site`, `Sub-region`, ICE-D short name
 - Geographic coordinates (`Longitude`, `Latitude`)
