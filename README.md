@@ -41,9 +41,6 @@ Used to replicate his results at the same permeability intervals as current mode
 ### `PaleoExfiltrationComplexHistory.ipynb`
 Runs the hydromechanical model using retreat–readvance histories from Nichols et al. (2024).
 
-### `GRL Groundwater Supplement`
-Supplementary document currently in progress for manuscript submission.
-
 ---
 
 ## 🎨 Figures
