@@ -9,14 +9,6 @@ Ellie M. Miller, Colorado School of Mines, 2026
 
 The workflows include cosmogenic-nuclide data processing, Bayesian ice-thickness reconstruction, sensitivity testing, regional thinning-rate calculations, hydropotential mapping, paleo-groundwater modeling, and numerical model validation.
 
-## Archived version and data
-
-A version-tagged snapshot of the code and associated materials corresponding to the analyses presented in the thesis is archived on Zenodo:
-
-**DOI:** https://doi.org/10.5281/zenodo.21865418
-
-Please cite the archived Zenodo version when using or adapting the code associated with the thesis.
-
 ---
 
 ## Repository contents
