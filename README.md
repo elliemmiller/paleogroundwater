@@ -149,30 +149,5 @@ Compares modeled paleo-groundwater flux with modern groundwater-flux estimates g
 
 ---
 
-## Model conventions
-
-Positive groundwater flux represents **exfiltration**, or upward groundwater movement toward the ice-bed interface.
-
-Negative groundwater flux represents **infiltration**, or downward groundwater movement into the sediment.
-
-The paleo-groundwater calculations use reconstructed ice-thickness histories spanning 20 ka to present. Because the hydromechanical solution is history dependent, modeled flux at a given time reflects both the current loading or unloading interval and residual contributions from preceding changes in ice thickness.
-
-The analytical model assumes a one-dimensional, vertically homogeneous, fully saturated sediment column with prescribed hydraulic properties. These assumptions and their implications are discussed in detail in the accompanying thesis.
-
----
-
-## Data availability
-
-Input and output datasets associated with the thesis analyses are archived through Zenodo. The archived code release and links to the associated datasets are available through:
-
-https://doi.org/10.5281/zenodo.21865418
-
----
-
-## Citation
-
-If you use this repository, please cite the archived Zenodo release:
-
-**Miller, E. M. (2026). Antarctic Ice Thinning and Subglacial Groundwater Dynamics Since the Last Glacial Maximum: Analysis Code and Model Workflows. Zenodo. https://doi.org/10.5281/zenodo.21865418**
 
 Individual datasets and external data products should also be cited according to the references provided in the accompanying thesis and notebook documentation.
